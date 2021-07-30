@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "05-app-dogceo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

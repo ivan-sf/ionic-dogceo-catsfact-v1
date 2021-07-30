@@ -1,0 +1,7 @@
+{
+  "name": "05-app-dogceo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

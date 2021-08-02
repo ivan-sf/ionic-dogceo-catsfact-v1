@@ -1,0 +1,10 @@
+<ion-header>
+  <app-header titulo="Catsfact"></app-header>
+</ion-header>
+
+<ion-content>
+  <app-cat *ngFor="let cat of cats"
+            [cat]="cat"
+            (clickCat)="escucharClick($event)"
+  ></app-cat>
+</ion-content>
